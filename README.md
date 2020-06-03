@@ -1,4 +1,4 @@
-# 2020 HSV Separate Tool
+# 2020 HSV Color Separate Tool
 
 ## 環境設定
 ```
