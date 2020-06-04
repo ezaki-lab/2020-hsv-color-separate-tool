@@ -19,14 +19,14 @@ python3 main.py IMAGE_PATH
 python3 main.py /Users/kaito/Downloads/test.jpg
 ```
 
-![例１](./samples/single.png)
+![例１](./examples/single.jpg)
 
 スペースを開けてパスを複数書くことで、複数の画像を入力に指定することも可能
 ```
 python3 main.py /Users/kaito/Downloads/test.jpg /Users/kaito/Downloads/test2.jpg
 ```
 
-![例２](./samples/double.png)
+![例２](./examples/double.jpg)
 
 ### ON/OFFボタン
 
